@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 import os, re
 
-PKG='oauth2'
+PKG='oauth2.3'
 VERSIONFILE = os.path.join('oauth2', '_version.py')
 verstr = "unknown"
 try:
